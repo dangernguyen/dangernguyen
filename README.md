@@ -28,7 +28,8 @@ const Danger_Nguyen: typeof SoftwareEngineer = {
   <a href="https://nextjs.org/" target="_blank"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40" alt="NextJS"></a>
   <a href="https://angular.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="40" alt="Angular"></a>
   <a href="https://learn.microsoft.com/dotnet/welcome" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="40" alt=".NET"></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" width="150" alt=".NET"></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="150" alt="ReactJS"></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" width="150" alt="ReactNative"></a>
 </p>
 
  * <b>Libraries:</b>
