@@ -35,7 +35,7 @@ const Danger_Nguyen: typeof SoftwareEngineer = {
  * <b>Libraries:</b>
 <p align="center">
   <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" alt="ReactJS"></a>
-  <a href="https://ant.design/" target="_blank"><img src="https://camo.githubusercontent.com/70ec62b59182d7ecbc34f6cfe6f043d6ca17b133c398871ef1cdab0fa4d1e424/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" width="40" alt="Ant Design"></a>
+  <a href="https://ant.design/" target="_blank"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" alt="Ant Design"></a>
   <a href="https://mui.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" width="40" alt="Material UI"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" width="40" alt="Tailwind CSS"></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" width="40" alt="Bootstrap"></a>
