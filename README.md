@@ -25,7 +25,7 @@ const Danger_Nguyen: typeof SoftwareEngineer = {
 ## ✨ Frameworks & Libraries:
   * <b>Frameworks:</b>
 <p align="center">
-  <a href="https://nextjs.org/" target="_blank"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40" alt="NextJS"></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" width="40" alt="NextJS"></a>
   <a href="https://angular.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="40" alt="Angular"></a>
   <a href="https://learn.microsoft.com/dotnet/welcome" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="40" alt=".NET"></a>
 <!--   <a href="https://react.dev/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" alt="ReactJS"></a> -->
